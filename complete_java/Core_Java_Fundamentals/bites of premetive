@@ -1,0 +1,15 @@
+/*byte: 8-bit integer.
+
+short: 16-bit integer.
+
+int: 32-bit integer.
+
+long: 64-bit integer.
+
+float: 32-bit floating-point.
+
+double: 64-bit floating-point.
+
+char: Single 16-bit Unicode character.
+
+boolean: True or false.*\
